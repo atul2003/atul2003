@@ -3,7 +3,7 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/atul-kutlehria/)&nbsp; [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/kutlehria_atul) ![](https://Visitor-badge.glitch.me/badge?page_id=bhav09.profileviews-badge)
 
 <!--
-**bhav09/bhav09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**atul2003/atul2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 -->
 
-I am a Data Scientist at @Rakuten India, Linkedin Content Creater , Pythonista , Open Source Mentor and a Speaker!
+I am a student and a Linkedin Content Creater , Pythonista 
  
 
 🌱 I’m currently exploring: Deep Learning
@@ -31,26 +31,26 @@ I am a Data Scientist at @Rakuten India, Linkedin Content Creater , Pythonista ,
 
 💻 Code carousel: "saippuakivikauppias".That's world's longest palindrome word which is used by finnish people daily. And here you're not even able to pronounce it😂
 
-📄 Resume : [Click to view](https://drive.google.com/file/d/1hJqyf9Mg4lcplCsUVT7puDCjIFCOIUns/view?usp=sharing)
+📄 Resume : Currently Building.
 
 ### Languages and Tools-
 
 
-| Python | Sklearn | C++ | Tkinter | Tableau |
-| :---: | :---: | :---: | :---: | :---: |
+| Python | HTML | C++ |  Tableau |
+| :---: | :---: | :---: | :---: |
 
 
-| Selenium | C | SQL | Pytorch | Numpy |
+| Javascript | C | SQL | Pytorch | Numpy |
 | :---: | :---: | :---: | :---: | :---: |
 
 | Pandas | SMTP lib | Tensorflow | OpenCV | Matplotlib |
 | :---: | :---: | :---: | :---: | :---: |
 
-| Pycharm | SpyderIDE | GoogleColab | Jupyter Notebook | Github |
-| :---: | :---: | :---: | :---: | :---: |
+| Pycharm | SpyderIDE | Jupyter Notebook | Github |
+| :---: | :---: | :---: | :---: | 
 
-| Flask | NLTK | Spacy | AWS Machine Learning | Data Analysis |
-| :---: | :---: | :---: | :---: | :---: |
+| Flask | NLTK | Spacy  | Data Analysis |
+| :---: | :---: | :---: | :---: |
 
 
 ![Bhavishya's github stats](https://github-readme-stats.vercel.app/api?username=bhav09&show_icons=true&theme=dark)
