@@ -53,6 +53,6 @@ I am a student and a Linkedin Content Creater , Pythonista
 | :---: | :---: | :---: | :---: |
 
 
-![Bhavishya's github stats](https://github-readme-stats.vercel.app/api?username=bhav09&show_icons=true&theme=dark)
+![Atul's github stats](https://github-readme-stats.vercel.app/api?username=atul2003&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhav09&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
