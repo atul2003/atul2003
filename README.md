@@ -1,6 +1,6 @@
 ### Hey there 👋 My name is Atul Kutlehria! 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/atul-kutlehria/)&nbsp; [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/kutlehria_atul) 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/atul-kutlehria/)&nbsp; [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/kutlehria_atul) ![](https://Visitor-badge.glitch.me/badge?page_id=bhav09.profileviews-badge)
 
 <!--
 **bhav09/bhav09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
