@@ -1,3 +1,10 @@
+<img align="right" alt="GIF" src="https://github.com/atul2003/atul2003/blob/main/market-research-port-6.gif" width="360"/>
+
+
+<!--https://i.imgur.com/9GNZGLH.gif
+
+-->
+
 ### Hey there 👋 My name is Atul Kutlehria! 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/atul-kutlehria/)&nbsp; [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/kutlehria_atul) ![](https://Visitor-badge.glitch.me/badge?page_id=bhav09.profileviews-badge)
@@ -31,7 +38,7 @@ I am a student and a Linkedin Content Creater , Pythonista
 
 💻 Code carousel: "saippuakivikauppias".That's world's longest palindrome word which is used by finnish people daily. And here you're not even able to pronounce it😂
 
-📄 Resume : Currently Building.
+📄 Resume : Currently Building🤔.
 
 ### Languages and Tools-
 
