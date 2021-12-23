@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 -->
 
-I am a student and a Linkedin Content Creater , Pythonista 
+I am a student and a Linkedin Content Creater , Pythonista and give some ♥ on [mail](mailto:atulkutlehria2003@gmail.com). Feel free to reach out in case you want to just get in touch also.
  
 
 🌱 I’m currently exploring: Deep Learning
